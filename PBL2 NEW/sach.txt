@@ -1,0 +1,11 @@
+SGT001;Lap trinh C++;Nguyen Van A;GiaoTrinh;Da muon;15 10 2020;GS001
+STK001;Triet hoc;Nguyen Van B;ThamKhao;Da muon;20 8 2020;GS001
+SGT002;Lap trinh OOP;Nguyen Van C;GiaoTrinh;Chua muon;20 11 2000;GS001
+STK002;Bai tap OOP;Nguyen Van D;ThamKhao;Chua muon;12 12 2012;GS001
+SGT007;OOP Giao trinh;Nguyen Van B;ThamKhao;Chua muon;12 12 2000;GS001
+SK003;Tim hieu ve IT;Nguyen Van O;Khac;Chua muon;12 12 2009;GS001
+SK001;Van hoc;Nguyen Van C;Khac;Da muon;12 5 2022;GS002
+SGT003;Cach viet luan;Nguyen Van Q;GiaoTrinh;Da muon;12 12 2012;GS002
+SGT004;Cau truc du lieu;Le Thi B;GiaoTrinh;Da muon;10 9 2017;GS002
+SGT005;Toan roi rac;Phan Binh;GiaoTrinh;Da muon;28 7 2010;GS002
+SGT006;Lich su Dang;Vo My;GiaoTrinh;Da muon;17 7 2009;GS002

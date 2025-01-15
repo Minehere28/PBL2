@@ -1,0 +1,6 @@
+201,Huynh Thao Nhi,23T_DT2,Cong nghe thong tin,1
+202,Nguyen Thi Suong Mai,23T_DT1,Cong nghe thong tin,1
+203,Le Thi Kim Ngoc,23QLCN2,Quan ly cong nghiep,0
+204,Nguyen Tan Quyen,23X1,Xay dung cau duong,5
+205,Tran Anh Tai,23CDT2,Co dien tu,0
+206,Nguyen Van Anh,23N1,Co khi,0
